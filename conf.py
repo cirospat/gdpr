@@ -36,4 +36,4 @@ def setup(app):
   Because the pdflatex raises exception when generate Latex documents with CKJ characters.
 """
 #latex_documents = []
-html_logo = "static/gdpr.jpg"
+html_logo = "gdpr.jpg"
