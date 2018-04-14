@@ -16,15 +16,9 @@ Schema degli obblighi/adempimenti del titolare del trattamento in base al GDPR -
 
 Con questa tabella si offre a disposizione dell'utenza uno schema sintetico degli obblighi/adempimenti/cautele di spettanza del titolare del trattamento in base alle norme del \ |LINK3|\  (relativo alla \ |STYLE0|\ ).
 
-Per una esigenza di articolazione e maggiore significatività della tabella, gli obblighi/adempimenti/cautele sono classificati come di seguito:
+Per una esigenza di articolazione e maggiore significatività della tabella, gli obblighi / adempimenti / cautele sono classificati come di seguito:
 
-#. quelli che riguardano concretamente un nucleo incomprimibile di attività di trattamento di dati, in assenza di incidenti/violazioni delle norme - \ |STYLE1|\ ;
-
-#. quelli che hanno a che fare con trattamenti di particolari categorie di dati o con determinate modalità di svolgimento delle attività ovvero si legano al verificarsi di specifiche circostanze (ad es., esercizio congiunto con altro titolare delle decisioni fondamentali sui trattamenti, trattamento di dati relativi alla salute, trattamento ad elevato rischio per i diritti e le libertà delle persone fisiche, raccolta on line di dati di minori di anni 16, organizzazione del titolare con più di 250 dipendenti, incarico ad un soggetto professionale di gestire trattamenti per conto del titolare, trasferimento dei dati in un Paese extra-UE, ecc.) - \ |STYLE2|\ ;
-
-#. obblighi/adempimenti gravanti sul titolare in presenza di incidenti/violazioni di dati o a fronte di richieste dell'autorità di controllo - \ |STYLE3|\ ;
-
-#. decisioni volontarie del titolare – \ |STYLE4|\ .
+|REPLACE1|
 
 A fianco di ciascun argomento/voce la tabella riporta il riferimento (capo, articolo/i) nel testo del Regolamento. 
 
@@ -36,7 +30,7 @@ A fianco di ciascun argomento/voce la tabella riporta il riferimento (capo, arti
     index
 
 
-\ |STYLE5|\ 
+\ |STYLE1|\ 
 
 .. _h232033e1c1b4a5f2c3341a4a526346:
 
@@ -44,7 +38,7 @@ I principi applicabili al trattamento dei dati personali
 ========================================================
 
 
-|REPLACE1|
+|REPLACE2|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -57,7 +51,7 @@ Acquisizione del consenso da parte dell'interessato e casistica di esonero dal r
 ===============================================================================================
 
 
-|REPLACE2|
+|REPLACE3|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -70,7 +64,7 @@ Il consenso dei minori a fronte di servizi ICT
 ==============================================
 
 
-|REPLACE3|
+|REPLACE4|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -83,7 +77,7 @@ Trattamento di particolari categorie di dati
 ============================================
 
 
-|REPLACE4|
+|REPLACE5|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -96,7 +90,7 @@ Trattamento di dati relativi a condanne penali e reati
 ======================================================
 
 
-|REPLACE5|
+|REPLACE6|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -109,7 +103,7 @@ Trasparenza nella gestione dei trattamenti
 ==========================================
 
 
-|REPLACE6|
+|REPLACE7|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -122,7 +116,7 @@ Informativa all'interessato
 ===========================
 
 
-|REPLACE7|
+|REPLACE8|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -135,7 +129,7 @@ Il rispetto dei diritti dell'interessato
 ========================================
 
 
-|REPLACE8|
+|REPLACE9|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -148,7 +142,7 @@ Il particolare caso dei processi decisionali automatizzati
 ==========================================================
 
 
-|REPLACE9|
+|REPLACE10|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -161,7 +155,7 @@ Misure di sicurezza adeguate
 ============================
 
 
-|REPLACE10|
+|REPLACE11|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -174,7 +168,7 @@ Privacy by design (fin dalla progettazione)
 ===========================================
 
 
-|REPLACE11|
+|REPLACE12|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -187,7 +181,7 @@ Privacy by default (per impostazione predefinita)
 =================================================
 
 
-|REPLACE12|
+|REPLACE13|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -200,7 +194,7 @@ Contitolarità del trattamento
 =============================
 
 
-|REPLACE13|
+|REPLACE14|
 
 .. _h382e175a7696329584e431f6319751d:
 
@@ -208,7 +202,7 @@ Nomina del Rappresentante del titolare
 ======================================
 
 
-|REPLACE14|
+|REPLACE15|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -221,7 +215,7 @@ Nomina del Responsabile del trattamento
 =======================================
 
 
-|REPLACE15|
+|REPLACE16|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -234,7 +228,7 @@ Obbligo di istruzione da parte del Titolare
 ===========================================
 
 
-|REPLACE16|
+|REPLACE17|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -247,7 +241,7 @@ Adozione del Registro delle attività di trattamento
 ===================================================
 
 
-|REPLACE17|
+|REPLACE18|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -260,7 +254,7 @@ Obbligo di cooperazione con l'autorità di controllo
 ===================================================
 
 
-|REPLACE18|
+|REPLACE19|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -273,7 +267,7 @@ Notificazione di una violazione dei dati
 ========================================
 
 
-|REPLACE19|
+|REPLACE20|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -286,7 +280,7 @@ Comunicazione di una violazione dei dati all'interessato
 ========================================================
 
 
-|REPLACE20|
+|REPLACE21|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -299,7 +293,7 @@ Redazione della Valutazione d'impatto sulla protezione dati e consultazione dell
 ======================================================================================================
 
 
-|REPLACE21|
+|REPLACE22|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -312,7 +306,7 @@ Nomina di un Responsabile della Protezione dei Dati (Data Protection Officer - D
 ===================================================================================
 
 
-|REPLACE22|
+|REPLACE23|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -325,7 +319,7 @@ Adesione a codici di condotta/sistemi di certificazione
 =======================================================
 
 
-|REPLACE23|
+|REPLACE24|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -338,7 +332,7 @@ Cautele per il trasferimento dei dati in Paesi terzi
 ====================================================
 
 
-|REPLACE24|
+|REPLACE25|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -351,7 +345,7 @@ Obbligo di risarcimento del danno
 =================================
 
 
-|REPLACE25|
+|REPLACE26|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -364,18 +358,20 @@ Obbligo di risarcimento del danno
 
 .. |STYLE0| replace:: *protezione delle persone fisiche con riguardo al trattamento dei dati personali*
 
-.. |STYLE1| replace:: **colore verde**
-
-.. |STYLE2| replace:: **colore arancione**
-
-.. |STYLE3| replace:: **colore rosso**
-
-.. |STYLE4| replace:: **colore celeste**
-
-.. |STYLE5| replace:: **REGOLAMENTO UE 2016/679: TABELLA RAGIONATA degli OBBLIGHI / ADEMPIMENTI / CAUTELE DEL TITOLARE**
+.. |STYLE1| replace:: **REGOLAMENTO UE 2016/679: TABELLA RAGIONATA degli OBBLIGHI / ADEMPIMENTI / CAUTELE DEL TITOLARE**
 
 
 .. |REPLACE1| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#00ff00;color:#0c0c0f;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><ol style="list-style:decimal;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="color:#0c0c0f;font-family:Century Gothic">quelli che riguardano concretamente un nucleo incomprimibile di attività di trattamento di dati, in assenza di incidenti/violazioni delle norme - <span style="font-weight:bold">colore verde</span>;</span></li></ol></td></tr>
+    <tr><td style="background-color:#ffcc99;color:#0c0c0f;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><ol style="list-style:decimal;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="color:#0c0c0f;font-family:Century Gothic">quelli che hanno a che fare con trattamenti di particolari categorie di dati o con determinate modalità di svolgimento delle attività ovvero si legano al verificarsi di specifiche circostanze (ad es., esercizio congiunto con altro titolare delle decisioni fondamentali sui trattamenti, trattamento di dati relativi alla salute, trattamento ad elevato rischio per i diritti e le libertà delle persone fisiche, raccolta on line di dati di minori di anni 16, organizzazione del titolare con più di 250 dipendenti, incarico ad un soggetto professionale di gestire trattamenti per conto del titolare, trasferimento dei dati in un Paese extra-UE, ecc.) - <span style="font-weight:bold">colore arancione</span>;</span></li></ol></td></tr>
+    <tr><td style="background-color:#ff0000;color:#0c0c0f;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><ol style="list-style:decimal;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="color:#0c0c0f;font-family:Century Gothic">obblighi/adempimenti gravanti sul titolare in presenza di incidenti/violazioni di dati o a fronte di richieste dell'autorità di controllo - <span style="font-weight:bold">colore rosso</span>;</span></li></ol></td></tr>
+    <tr><td style="background-color:#00ffff;color:#0c0c0f;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #999999"><ol style="list-style:decimal;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="color:#0c0c0f;font-family:Century Gothic">decisioni volontarie del titolare – <span style="font-weight:bold">colore celeste</span>.</span></li></ol></td></tr>
+    </tbody></table>
+
+.. |REPLACE2| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -384,7 +380,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#00ff00;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana"><span  style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana">I dati debbono essere trattati in modo lecito, corretto e trasparente nei confronti dell'interessato. Le finalità devono essere determinate, esplicite e legittime; i dati: adeguati, pertinenti, esatti ed aggiornati, oltre che limitati a quanto necessario rispetto alle finalità, e comunque da trattare in modo da garantirne un'adeguata sicurezza.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana"><span  style="font-family:Verdana"><span style="font-weight:bold">II, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/principi-gdpr#art5" target="_blank">5</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE2| raw:: html
+.. |REPLACE3| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -393,7 +389,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#00ff00;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana"><span  style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana">Ciascun titolare deve distinguere i casi in cui per eseguire un trattamento è richiesto il (previo) consenso dell'interessato, da quelli in cui non è necessario acquisirlo. La richiesta del consenso deve essere presentata in modo distinto da altre richieste, in forma comprensibile e facilmente accessibile, utilizzando un linguaggio semplice e chiaro. Quando per un trattamento è necessario il consenso, il titolare deve essere in grado di dimostrare che il consenso è stato effettivamente prestato. </span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana"><span  style="font-family:Verdana"><span style="font-weight:bold">II, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/principi-gdpr#art6" target="_blank">6-7</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE3| raw:: html
+.. |REPLACE4| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -402,7 +398,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#ffcc99;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana">Nei casi in cui è richiesto il consenso, il trattamento di dati relativo all'offerta diretta di servizi della società dell'informazione ai minori è lecito se il minore che ha prestato il consenso ha compiuto 16 anni. In caso di minori di 16 anni, deve essere acquisito il consenso di colui/coloro che ha/hanno la responsabilità genitoriale del minore e il titolare deve adoperarsi in ogni modo ragionevole, in considerazione delle tecnologie disponibili, per verificare la detta circostanza. </span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">II, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/principi-gdpr#art8" target="_blank">8</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE4| raw:: html
+.. |REPLACE5| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -411,7 +407,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#ffcc99;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana">E' formalizzato il divieto generale del trattamento dei dati corrispondenti a quelli attualmente definiti 'sensibili', oltre che dei dati genetici e biometrici. Dopodiché sono disposte specifiche eccezioni al divieto, come quelle relative alle ipotesi in cui: l'interessato ha prestato il consenso; i dati sono trattati per eseguire un contratto di lavoro e per le connesse esigenze di  sicurezza/protezione sociale; i dati sono trattati a fini di tutela di un interesse vitale dell'interessato; i dati personali sono stati resi pubblici dall'interessato, ecc.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">II, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/principi-gdpr#art9" target="_blank">9</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE5| raw:: html
+.. |REPLACE6| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -420,7 +416,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#ffcc99;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana">Il trattamento dei dati personali sostanzialmente corrispondenti a quelli oggi definiti 'giudiziari' deve avvenire, alternativamente, sotto il controllo della autorità pubblica ovvero previa autorizzazione proveniente da norme dell'Unione e del singolo Stato membro che prevedano garanzie appropriate per i diritti e le libertà degli interessati.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">II, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/principi-gdpr#art10" target="_blank">10</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE6| raw:: html
+.. |REPLACE7| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -429,7 +425,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#00ff00;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana">Il titolare è tenuto ad adottare misure appropriate per fornire all'interessato tutte le informazioni/comunicazioni relative ai trattamenti gestiti dalla propria organizzazione, in forma concisa, trasparente, intelligibile e facilmente accessibile, con un linguaggio semplice e chiaro. Il titolare è tenuto ad agevolare l'esercizio dei diritti da parte dell'interessato e, in particolare, a fornire un riscontro alla richiesta del medesimo senza ingiustificato ritardo e comunque entro un mese dal ricevimento della medesima (prorogabile di due mesi ove necessario, tenuto conto della complessità e del numero delle richieste).</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">III, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/diritti-dell-interessato-gdpr#art12" target="_blank">12</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE7| raw:: html
+.. |REPLACE8| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -438,7 +434,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#00ff00;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana">Adempimento basilare per qualsiasi titolare, si giova necessariamente di  una buona capacità di analisi (in particolare) dei flussi dei trattamenti. L'informativa richiesta dal Regolamento UE è più ricca di informazioni di quella attuale e la sua redazione è operazione niente affatto banale: per esempio, il titolare deve esplicitarvi il periodo di conservazione dei dati personali, ovvero i criteri utilizzati per determinare tale periodo. Non in ultimo, il linguaggio dell'informativa deve essere semplice e chiaro. Si distinguono le due fattispecie in cui la comunicazione delle informazioni è da correlare alla raccolta dei dati presso l'interessato ovvero presso un soggetto diverso. </span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">III, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/diritti-dell-interessato-gdpr#art13" target="_blank">13-14</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE8| raw:: html
+.. |REPLACE9| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -447,7 +443,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#00ff00;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana">Il Regolamento formalizza un ampio catalogo di diritti che spettano all'interessato. Si tratta del diritto di accesso, del diritto di rettifica, del diritto alla cancellazione (più noto come diritto all'oblio), diritto di limitazione del trattamento, diritto alla portabilità dei dati, diritto di opposizione al trattamento, con gli eventuali connessi obblighi di notifica/comunicazione gravanti sul titolare.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">III, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/diritti-dell-interessato-gdpr#art15" target="_blank">15</a><span style="font-weight:bold">-</span><a href="http://www.altalex.com/documents/leggi/2018/03/05/diritti-dell-interessato-gdpr#art16" target="_blank">16</a><span style="font-weight:bold">-</span><a href="http://www.altalex.com/documents/leggi/2018/03/05/diritti-dell-interessato-gdpr#art17" target="_blank">17-18</a><span style="font-weight:bold">-</span><a href="http://www.altalex.com/documents/leggi/2018/03/05/diritti-dell-interessato-gdpr#art20" target="_blank">20</a><span style="font-weight:bold">-</span><a href="http://www.altalex.com/documents/leggi/2018/03/05/diritti-dell-interessato-gdpr#art21" target="_blank">21</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE9| raw:: html
+.. |REPLACE10| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -456,7 +452,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#ffcc99;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana">E' riconosciuto il diritto dell'interessato a non essere sottoposto ad una decisione basata unicamente su un trattamento automatizzato dei dati che produca effetti giuridici che lo riguardano o che comunque incida significativamente sulla sua persona (tra le operazioni contemplate dalla norma campeggia la profilazione come definita dall'art. 4.1, n. 4). Ilcorrelativo divieto non si applica ove la decisione si basi sul consenso esplicito dell'interessato, sia necessaria per l'esecuzione di un contratto con l'interessato, ovvero sia autorizzata dal diritto dell'Unione o del singolo Stato membro.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">III, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/diritti-dell-interessato-gdpr#art22" target="_blank">22</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE10| raw:: html
+.. |REPLACE11| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -465,7 +461,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#00ff00;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana">Il titolare del trattamento deve adottare misure tecniche e organizzative adeguate al fine di garantire, ed essere in grado di dimostrare, la conformità del trattamento al Regolamento, tenendo conto della natura, dell'ambito di applicazione, del contesto e delle finalità del trattamento, nonché dei rischi aventi probabilità e gravità diverse per i diritti e le libertà delle persone fisiche. Le dette misure debbono essere periodicamente riesaminate e aggiornate.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">IV, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art24" target="_blank">24</a><span style="font-weight:bold">-</span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art32" target="_blank">32</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE11| raw:: html
+.. |REPLACE12| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -474,7 +470,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#00ff00;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana">Tenendo conto delle specifiche caratteristiche del trattamento e dei  connessi profili di rischio per i diritti e le libertà delle persone fisiche, all'atto del trattamento ovvero di determinare i mezzi del medesimo il titolare adotta misure tecniche e organizzative adeguate, in modo da attuare efficacemente i principi di protezione dei dati e da garantire nel trattamento i requisiti del Regolamento e la tutela dei diritti degli interessati.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">IV, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art25" target="_blank">25.1</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE12| raw:: html
+.. |REPLACE13| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -483,7 +479,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#00ff00;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana">Il titolare del trattamento attua misure tecniche e organizzative adeguate per garantire che siano trattati, per impostazione predefinita, solo i dati personali necessari per ciascuna finalità del trattamento. Obbligo che vale per la quantità dei dati raccolti, la portata del trattamento, il periodo di conservazione e l'accessibilità ai dati stessi.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">IV, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art25" target="_blank">25.2</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE13| raw:: html
+.. |REPLACE14| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -492,7 +488,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#ffcc99;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana">Nel caso in cui due o più titolari operano come contitolari del trattamento (determinando congiuntamente finalità e mezzi del medesimo), concordano in modo trasparente, mediante un contratto, la ripartizione delle responsabilità del trattamento, con particolare riguardo all'esercizio dei diritti degli interessati e ai connessi obblighi informativi. Il contenuto essenziale dell'accordo deve essere messo a disposizione degli interessati.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">IV, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art26" target="_blank">26</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE14| raw:: html
+.. |REPLACE15| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -501,7 +497,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#ffcc99;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana">Laddove si applichi l'art. 3.2 (trattamento di dati personali relativi ad interessati che si trovano nell'Unione da parte di titolare/responsabile non stabilito nell'UE), il titolare/responsabile designa per iscritto un proprio rappresentante nell'Unione. Il rappresentante è l'indefettibile interlocutore della competente autorità di controllo e degli interessati, per tutte le questioni riguardanti il trattamento.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">IV, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art27" target="_blank">27</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE15| raw:: html
+.. |REPLACE16| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -510,7 +506,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#ffcc99;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana">Il titolare può nominare un responsabile che effettui il trattamento per suo conto. Il titolare ha la responsabilità di scegliere per tale incarico un soggetto/organismo che presenti garanzie sufficienti per mettere in atto le prescritte misure tecniche e organizzative adeguate. Il Regolamento stabilisce un numero cospicuo di requisiti minimi di contenuto del contratto tra titolare e responsabile del trattamento.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">IV, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art28" target="_blank">28</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE16| raw:: html
+.. |REPLACE17| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -519,7 +515,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#00ff00;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#00ff00;color:#0c0c0f;font-family:Verdana">Il titolare del trattamento deve previamente istruire tutti coloro che siano autorizzati ad accedere ai dati personali, compreso il responsabile del trattamento.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">IV, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art29" target="_blank">29</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE17| raw:: html
+.. |REPLACE18| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -528,7 +524,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#ffcc99;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana">E' adempimento obbligatorio per il titolare del trattamento con almeno 250 dipendenti o che, anche al di sotto di tale soglia dimensionale, effettui un trattamento che possa presentare un rischio per i diritti e le libertà degli interessati che non sia occasionale o che includa dati sensibili, genetici, biometrici, giudiziari. Cuore del documento è una mappa dettagliata di tutti i trattamenti effettuati dall'organizzazione del titolare.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">IV, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art30" target="_blank">30</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE18| raw:: html
+.. |REPLACE19| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -537,7 +533,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#ff0000;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#ff0000;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#ff0000;color:#0c0c0f;font-family:Verdana">Il titolare è tenuto a cooperare con l'autorità di controllo, quando quella gliene faccia richiesta.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">IV, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art31" target="_blank">31</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE19| raw:: html
+.. |REPLACE20| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -546,7 +542,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#ff0000;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#ff0000;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#ff0000;color:#0c0c0f;font-family:Verdana">Rientra tra gli obblighi del titolare anche la notifica all'autorità di controllo (Garante) senza ingiustificato ritardo - e, ove possibile, entro 72 ore dal momento in cui ne è venuto a conoscenza -, di ogni violazione della sicurezza dei dati personali che presenti un rischio per i diritti e le libertà delle persone fisiche.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">IV, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art33" target="_blank">33</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE20| raw:: html
+.. |REPLACE21| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -555,7 +551,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#ff0000;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#ff0000;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#ff0000;color:#0c0c0f;font-family:Verdana">Quando la violazione della sicurezza dei dati presenta un rischio elevato per i diritti e le libertà delle persone fisiche, il titolare deve darne notizia all'interessato senza ingiustificato ritardo. La norma fissa i requisiti di contenuto della comunicazione, che deve essere redatta con un linguaggio semplice e chiaro. Altresì la norma individua i casi in cui la detta comunicazione non è richiesta (per semplicità, quando il titolare ha adottato misure tali da scongiurare il rischio o quando la comunicazione richiederebbe sforzi sproporzionati. </span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">IV, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art34" target="_blank">34</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE21| raw:: html
+.. |REPLACE22| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -564,7 +560,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#ffcc99;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana">Si tratta di un ulteriore adempimento che grava sul titolare che debba iniziare un trattamento molto rischioso per i diritti e le libertà delle persone fisiche. Ciò si può verificare, in particolare, quando sia implicato l'uso di nuove tecnologie, ovvero in considerazione di altre caratteristiche (natura, oggetto, contesto, finalità) del trattamento. Quando la valutazione di impatto indichi che il trattamento presenta un rischio elevato, prima di procedere al trattamento il titolare è tenuto a consultare l'autorità di controllo.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">IV, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art35" target="_blank">35-36</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE22| raw:: html
+.. |REPLACE23| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -573,7 +569,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#ffcc99;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana">La nomina del DPO è adempimento obbligatorio quando il titolare del trattamento: a)  è  autorità/organismo pubblico (eccettuate le autorità giurisdizionali quando esercitano le loro funzioni giurisdizionali); b) effettua trattamenti che richiedono il monitoraggio regolare e sistematico degli interessati su larga scala; c) effettua come attività principali trattamenti su larga scala di dati sensibili, genetici, biometrici, giudiziari. Il DPO ha compiti di informazione, formazione, consulenza e sorveglianza dell'adempimento della disciplina 'privacy'. E' anche l'interlocutore dell'autorità di controllo.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">IV, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art37" target="_blank">37-39</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE23| raw:: html
+.. |REPLACE24| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -582,7 +578,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#00ffff;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#00ffff;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#00ffff;color:#0c0c0f;font-family:Verdana">Si tratta di adempimenti volontari del titolare mediante i quali può implementare importanti misure di sicurezza dei trattamenti e dimostrare la conformità delle attività di trattamento ai requisiti stabiliti dal Regolamento.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">IV, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art40" target="_blank">40-42</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE24| raw:: html
+.. |REPLACE25| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
@@ -591,7 +587,7 @@ Obbligo di risarcimento del danno
     <tr><td style="background-color:#ffcc99;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#ffcc99;color:#0c0c0f;font-family:Verdana">Il trasferimento di dati personali verso un Paese terzo o un'organizzazione internazionale deve essere effettuato nel rispetto di specifiche condizioni affinché non sia pregiudicato il livello di protezione delle persone fisiche garantito dal Regolamento.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">V, </span><a href="http://www.altalex.com/documents/news/2018/03/05/trasferimento-di-dati-personali-verso-paesi-terzi-gdpr#art44" target="_blank">44</a><span style="font-weight:bold">-</span><a href="http://www.altalex.com/documents/news/2018/03/05/trasferimento-di-dati-personali-verso-paesi-terzi-gdpr#art45" target="_blank">45</a><span style="font-weight:bold">- </span><a href="http://www.altalex.com/documents/news/2018/03/05/trasferimento-di-dati-personali-verso-paesi-terzi-gdpr#art46" target="_blank">46</a><span style="font-weight:bold">-</span><a href="http://www.altalex.com/documents/news/2018/03/05/trasferimento-di-dati-personali-verso-paesi-terzi-gdpr#art47" target="_blank">47</a><span style="font-weight:bold">-</span><a href="http://www.altalex.com/documents/news/2018/03/05/trasferimento-di-dati-personali-verso-paesi-terzi-gdpr#art48" target="_blank">48</a><span style="font-weight:bold">-</span><a href="http://www.altalex.com/documents/news/2018/03/05/trasferimento-di-dati-personali-verso-paesi-terzi-gdpr#art49" target="_blank">49</a></span></p></td></tr>
     </tbody></table>
 
-.. |REPLACE25| raw:: html
+.. |REPLACE26| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:96%">
     <thead>
