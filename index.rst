@@ -7,12 +7,12 @@ Schema degli obblighi/adempimenti del titolare del trattamento in base al GDPR -
 
 .. admonition:: Fonte
 
-    \ |LINK1|\ 
+    Articolo di Altalex del 12 aprile 2018: \ |LINK1|\ 
 
 
 ..  Important:: 
 
-    Altalex, 12  aprile 2018. Tabella a cura di \ |LINK2|\ 
+    Tabella a cura di \ |LINK2|\ 
 
 Con questa tabella si offre a disposizione dell'utenza uno schema sintetico degli obblighi/adempimenti/cautele di spettanza del titolare del trattamento in base alle norme del \ |LINK3|\  (relativo alla \ |STYLE0|\ ).
 
@@ -599,7 +599,7 @@ Obbligo di risarcimento del danno
 
 .. |LINK1| raw:: html
 
-    <a href="http://www.altalex.com/documents/news/2017/03/10/privacy-e-regolamento-ue-la-tabella-degli-obblighi-e-degli-adempimenti-del-titolare" target="_blank">http://www.altalex.com/documents/news/2017/03/10/privacy-e-regolamento-ue-la-tabella-degli-obblighi-e-degli-adempimenti-del-titolare</a>
+    <a href="http://www.altalex.com/documents/news/2017/03/10/privacy-e-regolamento-ue-la-tabella-degli-obblighi-e-degli-adempimenti-del-titolare" target="_blank">GDPR, la tabella degli adempimenti del titolare</a>
 
 .. |LINK2| raw:: html
 
