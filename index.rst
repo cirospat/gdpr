@@ -6,27 +6,27 @@ Schema degli obblighi/adempimenti del titolare del trattamento in base al GDPR -
 
 --------
 
-Da Wikipedia:
+\ |LINK1|\ :
 
 General Data Protection Regulation - \ |STYLE0|\ . 
 
 Un regolamento con il quale la Commissione europea intende rafforzare e rendere più omogenea la protezione dei dati personali di cittadini dell'Unione europea e dei residenti nell'Unione europea, sia all'interno che all'esterno dei confini dell'Unione Europea.
 
-Gli obiettivi principali della Commissione europea nel GDPR sono quelli di restituire ai cittadini il controllo dei propri dati personali e di semplificare il contesto normativo che riguarda gli affari internazionali unificando e rendendo omogenea la normativa privacy dentro l'UE.\ |LINK1|\  Dal 25 maggio 2018, il GDPR andrà a sostituire la direttiva sulla protezione dei dati (ufficialmente Direttiva 95/46/EC)\ |LINK2|\  istituita nel 1995, abrogherà le norme del codice per la protezione dei dati personali (d.lgs.n. 196/2003) che risulteranno con esso incompatibili. 
+Gli obiettivi principali della Commissione europea nel GDPR sono quelli di restituire ai cittadini il controllo dei propri dati personali e di semplificare il contesto normativo che riguarda gli affari internazionali unificando e rendendo omogenea la normativa privacy dentro l'UE.\ |LINK2|\  Dal 25 maggio 2018, il GDPR andrà a sostituire la direttiva sulla protezione dei dati (ufficialmente Direttiva 95/46/EC)\ |LINK3|\  istituita nel 1995, abrogherà le norme del codice per la protezione dei dati personali (d.lgs.n. 196/2003) che risulteranno con esso incompatibili. 
 
 --------
 
 
 .. admonition:: Fonte articolo e tabella
 
-    Articolo di Altalex del 12 aprile 2018: \ |LINK3|\ 
+    Articolo di Altalex del 12 aprile 2018: \ |LINK4|\ 
 
 
 ..  Important:: 
 
-    Tabella a cura di \ |LINK4|\ 
+    Tabella a cura di \ |LINK5|\ 
 
-Con questa tabella si offre a disposizione dell'utenza uno schema sintetico degli obblighi/adempimenti/cautele di spettanza del titolare del trattamento in base alle norme del \ |LINK5|\  (relativo alla \ |STYLE1|\ ).
+Con questa tabella si offre a disposizione dell'utenza uno schema sintetico degli obblighi/adempimenti/cautele di spettanza del titolare del trattamento in base alle norme del \ |LINK6|\  (relativo alla \ |STYLE1|\ ).
 
 Per una esigenza di articolazione e maggiore significatività della tabella, gli obblighi / adempimenti / cautele sono classificati come di seguito:
 
@@ -551,21 +551,25 @@ Obbligo di risarcimento del danno
 
 .. |LINK1| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Regolamento_generale_sulla_protezione_dei_dati#cite_note-1" target="_blank">[1]</a>
+    <a href="https://it.wikipedia.org/wiki/Regolamento_generale_sulla_protezione_dei_dati" target="_blank">GDPR da Wikipedia</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Regolamento_generale_sulla_protezione_dei_dati#cite_note-2" target="_blank">[2]</a>
+    <a href="https://it.wikipedia.org/wiki/Regolamento_generale_sulla_protezione_dei_dati#cite_note-1" target="_blank">[1]</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://www.altalex.com/documents/news/2017/03/10/privacy-e-regolamento-ue-la-tabella-degli-obblighi-e-degli-adempimenti-del-titolare" target="_blank">GDPR, la tabella degli adempimenti del titolare</a>
+    <a href="https://it.wikipedia.org/wiki/Regolamento_generale_sulla_protezione_dei_dati#cite_note-2" target="_blank">[2]</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://www.altalex.com/autori/marini-paolo" target="_blank">Paolo Marini</a>
+    <a href="http://www.altalex.com/documents/news/2017/03/10/privacy-e-regolamento-ue-la-tabella-degli-obblighi-e-degli-adempimenti-del-titolare" target="_blank">GDPR, la tabella degli adempimenti del titolare</a>
 
 .. |LINK5| raw:: html
+
+    <a href="http://www.altalex.com/autori/marini-paolo" target="_blank">Paolo Marini</a>
+
+.. |LINK6| raw:: html
 
     <a href="http://www.altalex.com/documents/news/2015/12/23/accordo-raggiunto-sul-regolamento-europeo-in-materia-di-protezione-dei-dati-personali" target="_blank">GDPR - Regolamento UE 2016/679</a>
 
