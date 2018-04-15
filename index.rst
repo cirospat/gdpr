@@ -52,10 +52,7 @@ I principi applicabili al trattamento dei dati personali
 
 |REPLACE2|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h5d672624263b5a367581e7a735c828:
 
@@ -70,6 +67,8 @@ Acquisizione del consenso da parte dell'interessato e casistica di esonero dal r
 
 
 
+|
+
 .. _h7143db48502b366f6e3c175b4c733:
 
 Il consenso dei minori a fronte di servizi ICT
@@ -78,10 +77,7 @@ Il consenso dei minori a fronte di servizi ICT
 
 |REPLACE4|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h396051e4519795b644c6425281353d:
 
@@ -91,10 +87,7 @@ Trattamento di particolari categorie di dati
 
 |REPLACE5|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h74622e332b162d4e36214c184a42e:
 
@@ -104,10 +97,7 @@ Trattamento di dati relativi a condanne penali e reati
 
 |REPLACE6|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h122454b1b3216d677778467d3e6c2:
 
@@ -117,10 +107,7 @@ Trasparenza nella gestione dei trattamenti
 
 |REPLACE7|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h611231392f5a723773c3b7d7b1e206e:
 
@@ -130,10 +117,7 @@ Informativa all'interessato
 
 |REPLACE8|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h794a21e7e627e41a7c9146c3e52:
 
@@ -143,10 +127,7 @@ Il rispetto dei diritti dell'interessato
 
 |REPLACE9|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h333b52f3e4d54632c592073f191331:
 
@@ -156,10 +137,7 @@ Il particolare caso dei processi decisionali automatizzati
 
 |REPLACE10|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h6c572207c7513324ea5712735c426c:
 
@@ -169,10 +147,7 @@ Misure di sicurezza adeguate
 
 |REPLACE11|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h493756156a502c234dc67e742b2160:
 
@@ -182,10 +157,7 @@ Privacy by design (fin dalla progettazione)
 
 |REPLACE12|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h42f235501121793d2d691f75d7f60:
 
@@ -195,10 +167,7 @@ Privacy by default (per impostazione predefinita)
 
 |REPLACE13|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h3ad2c67555355522a3310142f165928:
 
@@ -208,6 +177,8 @@ Contitolarità del trattamento
 
 |REPLACE14|
 
+|
+
 .. _h382e175a7696329584e431f6319751d:
 
 Nomina del Rappresentante del titolare
@@ -216,10 +187,7 @@ Nomina del Rappresentante del titolare
 
 |REPLACE15|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h5b56261387c7ba52df2ea5f4571:
 
@@ -229,10 +197,7 @@ Nomina del Responsabile del trattamento
 
 |REPLACE16|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h64550833d2c671d1b5769636c21:
 
@@ -242,10 +207,7 @@ Obbligo di istruzione da parte del Titolare
 
 |REPLACE17|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h7f1566861d632630422c1d4c635a32:
 
@@ -255,10 +217,7 @@ Adozione del Registro delle attività di trattamento
 
 |REPLACE18|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h43537b365260796f2e1d3e5a147c2152:
 
@@ -268,10 +227,7 @@ Obbligo di cooperazione con l'autorità di controllo
 
 |REPLACE19|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h2b515a7d7d1a29796c7a806765721a50:
 
@@ -281,10 +237,7 @@ Notificazione di una violazione dei dati
 
 |REPLACE20|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h1d39736b635353446616507a94d2e:
 
@@ -294,10 +247,7 @@ Comunicazione di una violazione dei dati all'interessato
 
 |REPLACE21|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h4f3d66273d14986053547d504d56a:
 
@@ -307,10 +257,7 @@ Redazione della Valutazione d'impatto sulla protezione dati e consultazione dell
 
 |REPLACE22|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h4d69153f47456654374942c407a8:
 
@@ -320,10 +267,7 @@ Nomina di un Responsabile della Protezione dei Dati (Data Protection Officer - D
 
 |REPLACE23|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h3021744db3834535e3061f3761512d:
 
@@ -333,10 +277,7 @@ Adesione a codici di condotta/sistemi di certificazione
 
 |REPLACE24|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h532a4f3e60295ec4ee25477754351a:
 
@@ -346,10 +287,7 @@ Cautele per il trasferimento dei dati in Paesi terzi
 
 |REPLACE25|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h228645267345a6721706a1b78b4523:
 
