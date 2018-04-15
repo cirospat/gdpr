@@ -16,6 +16,8 @@ Gli obiettivi principali della Commissione europea nel GDPR sono quelli di resti
 
 --------
 
+|
+
 
 .. admonition:: Fonte articolo e tabella
 
