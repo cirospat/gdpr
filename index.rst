@@ -299,11 +299,6 @@ Obbligo di risarcimento del danno
 
 |REPLACE26|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
 |
 
 .. _h2c1d74277104e41780968148427e:
@@ -311,10 +306,10 @@ Obbligo di risarcimento del danno
 
 
 
-.. _h584a5a735d5c63a4f5640236b40145f:
+.. _h4f2225576255d2c274f372c5033045:
 
-GDPR: 3 REGOLE FONDAMENTALI PER LA CONFORMITÀ DI UN SITO WEB
-************************************************************
+GDPR: 3 regole fondamentali per la conformità di un sito web
+############################################################
 
 \ |LINK7|\ 
 
