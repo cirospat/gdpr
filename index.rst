@@ -21,7 +21,7 @@ Gli obiettivi principali della Commissione europea nel GDPR sono quelli di resti
 
 .. toctree::  
     :maxdepth: 3
-    :caption: Indice adempimenti
+    :caption: Indice
 
     index
 
@@ -363,12 +363,15 @@ Dunque ogni progetto che voglia essere conforme alla GDPR dovrà implementare un
 Altri articoli sull’applicazione del GDPR
 #########################################
 
-.. _h68b502f17106bf2b7ef4e465e2d25:
+.. _h334671252b5e305b2130ac7e294818:
 
-Come adeguare la PA al GDPR: tutto ciò che bisogna fare, di Ernesto Belisario
-=============================================================================
+Come adeguare la PA al GDPR: tutto ciò che bisogna fare
+=======================================================
 
-\ |LINK9|\  agendadigitale.eu
+
+..  Important:: 
+
+    di Ernesto Belisario - \ |LINK9|\  agendadigitale.eu
 
 nominare un \ |LINK10|\  (in italiano, RPD o responsabile della protezione dei dati personali).
 
@@ -398,12 +401,15 @@ Si tratta di una figura che deve possedere dei requisiti specifici (ad esempio i
 
 |
 
-.. _h1d7e2f65537070124f2cdb2b28412:
+.. _h177a513e7e7a060603026293774767e:
 
-GDPR, tutto ciò che c’è da sapere per essere in regola, di Raffaella Natale
-===========================================================================
+GDPR, tutto ciò che c’è da sapere per essere in regola
+======================================================
 
-\ |LINK12|\  agendadigitale.eu
+
+..  Important:: 
+
+    di Raffaella Natale - \ |LINK12|\  agendadigitale.eu
 
 introdotta la \ |STYLE16|\  (accountability) e un approccio che tenga in maggior considerazione i rischi che un determinato trattamento di dati personali può comportare per i diritti e le libertà degli interessati.
 
@@ -413,12 +419,15 @@ introdotta la \ |STYLE16|\  (accountability) e un approccio che tenga in maggior
 
 |
 
-.. _h671e7c5d5df7e6f2c6f127a3332770:
+.. _h6e1c293a1ef5150241011591713523a:
 
-GDPR e diritto all’oblio, di Franco Pizzetti
-============================================
+GDPR e diritto all’oblio
+========================
 
-\ |LINK15|\  agendadigitale.eu
+
+..  Important:: 
+
+    di Franco Pizzetti - \ |LINK15|\  agendadigitale.eu
 
 \ |STYLE18|\ . La parte veramente nuova, che consente di parlare anche di diritto l’oblio, pur poco avendo a che fare con la informazione e la libertà di pensiero, riguarda il dovere specifico posto a carico del titolare che riceva una richiesta di cancellazione quando i dati che ne sono oggetto siano stati “resi pubblici” dal titolare stesso.
 
@@ -433,9 +442,11 @@ In questa ipotesi l’art. 17 paragrafo 2 impone al titolare non solo di cancell
 Formazione privacy obbligatoria, col Gdpr: che c’è da sapere
 ============================================================
 
-di Mauro Alovisio avvocato, docente corso di formazione del data protection officer - Università degli Studi di Torino, Costanza Mottino avvocato, esperto data protection
 
-\ |LINK16|\  agendadigitale.eu
+..  Important:: 
+
+    di Mauro Alovisio avvocato, docente corso di formazione del data protection officer - Università degli Studi di Torino, Costanza Mottino avvocato, esperto data protection.
+    \ |LINK16|\  agendadigitale.eu
 
 La \ |STYLE19|\ , pertanto, \ |STYLE20|\  per potere operare all’interno delle organizzazioni, imprese e pubbliche amministrazioni.
 
