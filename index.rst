@@ -6,17 +6,7 @@ Schema degli obblighi/adempimenti del titolare del trattamento in base al GDPR -
 
 --------
 
-\ |LINK1|\ :
-
-General Data Protection Regulation - \ |STYLE0|\ . 
-
-Un regolamento con il quale la Commissione europea intende rafforzare e rendere più omogenea la protezione dei dati personali di cittadini dell'Unione europea e dei residenti nell'Unione europea, sia all'interno che all'esterno dei confini dell'Unione Europea.
-
-Gli obiettivi principali della Commissione europea nel GDPR sono quelli di restituire ai cittadini il controllo dei propri dati personali e di semplificare il contesto normativo che riguarda gli affari internazionali unificando e rendendo omogenea la normativa privacy dentro l'UE.\ |LINK2|\  Dal 25 maggio 2018, il GDPR andrà a sostituire la direttiva sulla protezione dei dati (ufficialmente Direttiva 95/46/EC)\ |LINK3|\  istituita nel 1995, abrogherà le norme del codice per la protezione dei dati personali (d.lgs.n. 196/2003) che risulteranno con esso incompatibili. 
-
---------
-
-\ |LINK4|\  \ |STYLE1|\ 
+\ |LINK1|\  \ |STYLE0|\ 
 
 La Guida intende offrire un panorama delle principali problematiche che imprese e soggetti pubblici dovranno tenere presenti in vista della piena applicazione del regolamento, prevista il 25 maggio 2018.
 
@@ -34,10 +24,10 @@ La Guida intende offrire un panorama delle principali problematiche che imprese 
 
 ..  Important:: 
 
-    Articolo di Altalex del 12 aprile 2018: \ |LINK5|\ .
-    Tabella a cura di \ |LINK6|\ 
+    Articolo di Altalex del 12 aprile 2018: \ |LINK2|\ .
+    Tabella a cura di \ |LINK3|\ 
 
-Con questa tabella si offre a disposizione dell'utenza uno schema sintetico degli obblighi/adempimenti/cautele di spettanza del titolare del trattamento in base alle norme del \ |LINK7|\  (relativo alla \ |STYLE2|\ ).
+Con questa tabella si offre a disposizione dell'utenza uno schema sintetico degli obblighi/adempimenti/cautele di spettanza del titolare del trattamento in base alle norme del \ |LINK4|\  (relativo alla \ |STYLE1|\ ).
 
 Per una esigenza di articolazione e maggiore significatività della tabella, gli obblighi / adempimenti / cautele sono classificati come di seguito:
 
@@ -47,7 +37,7 @@ A fianco di ciascun argomento/voce la tabella riporta il riferimento (capo, arti
 
 |
 
-\ |STYLE3|\ 
+\ |STYLE2|\ 
 
 .. _h232033e1c1b4a5f2c3341a4a526346:
 
@@ -317,22 +307,22 @@ GDPR: 3 regole fondamentali per la conformità di un sito web
 
 ..  Important:: 
 
-    Fonte: \ |LINK8|\   di \ |LINK9|\ . 16 Aprile 2018
+    Fonte: \ |LINK5|\   di \ |LINK6|\ . 16 Aprile 2018
 
 Esistono tre regole chiave da rispettare per rendere il proprio sito web conforme alle norme previste dal GDPR ovvero: 
+
+#. \ |STYLE3|\ 
 
 #. \ |STYLE4|\ 
 
 #. \ |STYLE5|\ 
-
-#. \ |STYLE6|\ 
 
 .. _h364778496906b335a58736e251e:
 
 Il consenso dell'utente
 =======================
 
-Il \ |STYLE7|\  è uno dei pilastri della nuova legislazione ed è vitale per poter salvare ed utilizzare i dati personali degli utenti. Dunque è necessario ottenere uno specifico permesso da parte dell'utente per poter trattare i suoi dati, \ |STYLE8|\ . 
+Il \ |STYLE6|\  è uno dei pilastri della nuova legislazione ed è vitale per poter salvare ed utilizzare i dati personali degli utenti. Dunque è necessario ottenere uno specifico permesso da parte dell'utente per poter trattare i suoi dati, \ |STYLE7|\ . 
 
 I visitatori del sito web dovranno essere informati in modo preciso di come i loro dati verranno raccolti e trattati, sarà inoltre necessario informarli delle motivazioni di questa raccolta dati e sarà quindi molto importante che accettino di loro spontanea volontà selezionando un apposito form di conferma.
 
@@ -347,20 +337,20 @@ Altra novità arrivata con la GDPR riguarda il linguaggio delle note sulla priva
 L'accesso ai dati
 =================
 
-Il secondo componente chiave del GDPR è \ |STYLE9|\ . Bisogna rendere noto e avvertire l'utente su chi può accedere ai propri dati personali e come essi vengono registrati e conservati dal sito web, anche tramite CMS o CRM.
+Il secondo componente chiave del GDPR è \ |STYLE8|\ . Bisogna rendere noto e avvertire l'utente su chi può accedere ai propri dati personali e come essi vengono registrati e conservati dal sito web, anche tramite CMS o CRM.
 
 La via più semplice per farlo è in classico form dove si chiede all'utente di poter trattare, nei modi che si necessitano, i vari tipi di dati personali. 
 
-Se la risposta è negativa deve essere anche implementata una procedura per evitare che i dati vengano registrati e conservati, inoltre \ |STYLE10|\  in futuro e di cancellare i propri dati quando lo desidera. I titolari delle aziende dovrebbero inoltre verificare e controllare che le eventuali agenzie di terze parti che hanno accesso ai dati degli utenti abbiamo procedure conformi ai nuovi regolamenti.
+Se la risposta è negativa deve essere anche implementata una procedura per evitare che i dati vengano registrati e conservati, inoltre \ |STYLE9|\  in futuro e di cancellare i propri dati quando lo desidera. I titolari delle aziende dovrebbero inoltre verificare e controllare che le eventuali agenzie di terze parti che hanno accesso ai dati degli utenti abbiamo procedure conformi ai nuovi regolamenti.
 
 .. _h7e624216234b7a51d6e2756876723d:
 
 La crittografia
 ===============
 
-Terze elemento cardine del GDPR è \ |STYLE11|\ . \ |STYLE12|\ , questo per impedire sottrazioni di informazioni sensibili tramite attacchi informatici. 
+Terze elemento cardine del GDPR è \ |STYLE10|\ . \ |STYLE11|\ , questo per impedire sottrazioni di informazioni sensibili tramite attacchi informatici. 
 
-Dunque ogni progetto che voglia essere conforme alla GDPR dovrà implementare un sistema che preveda l'utilizzo di certificati di sicurezza \ |STYLE13|\  durante le comunicazioni dei dati sensibili. Inoltre ai i vari database interni dovranno essere protetti da chiavi crittografiche "robuste" (qualsiasi sia il significato che si voglia attribuire a questo termine).
+Dunque ogni progetto che voglia essere conforme alla GDPR dovrà implementare un sistema che preveda l'utilizzo di certificati di sicurezza \ |STYLE12|\  durante le comunicazioni dei dati sensibili. Inoltre ai i vari database interni dovranno essere protetti da chiavi crittografiche "robuste" (qualsiasi sia il significato che si voglia attribuire a questo termine).
 
 --------
 
@@ -377,19 +367,19 @@ Come adeguare la PA al GDPR: tutto ciò che bisogna fare
 
 ..  Important:: 
 
-    di Ernesto Belisario - \ |LINK10|\  agendadigitale.eu
+    di Ernesto Belisario - \ |LINK7|\  agendadigitale.eu
 
-nominare un \ |LINK11|\  (in italiano, RPD o responsabile della protezione dei dati personali).
+nominare un \ |LINK8|\  (in italiano, RPD o responsabile della protezione dei dati personali).
 
-Si tratta di una figura che deve possedere dei requisiti specifici (ad esempio in termini di esperienza e competenza, così come chiarito nelle \ |LINK12|\ ) e deve occuparsi prevalentemente di informare e fornire consulenza sulla corretta applicazione della normativa, curando con particolare attenzione della formazione del personale.
+Si tratta di una figura che deve possedere dei requisiti specifici (ad esempio in termini di esperienza e competenza, così come chiarito nelle \ |LINK9|\ ) e deve occuparsi prevalentemente di informare e fornire consulenza sulla corretta applicazione della normativa, curando con particolare attenzione della formazione del personale.
 
 È importante quindi notare che – così come previsto dalle Linee guida del gruppo Art. 29 – i DPO non rispondono personalmente in caso di inosservanza del GDPR. 
 
-\ |STYLE14|\ ….il Data Protection Officer può essere interno o esterno. Nel primo caso, anche per salvaguardare la sua autonomia, non potrà coincidere con chi – all’interno dell’ente – definisce, anche in parte, le politiche di protezione dei dati personali (come il responsabile per la transizione digitale). 
+\ |STYLE13|\ ….il Data Protection Officer può essere interno o esterno. Nel primo caso, anche per salvaguardare la sua autonomia, non potrà coincidere con chi – all’interno dell’ente – definisce, anche in parte, le politiche di protezione dei dati personali (come il responsabile per la transizione digitale). 
 
-\ |STYLE15|\ . che si sostanzia nell’obbligo per il titolare di rendere l’informativa, cioè di dare evidenza – senza alcuna specifica richiesta – delle principali informazioni che riguardano il trattamento.
+\ |STYLE14|\ . che si sostanzia nell’obbligo per il titolare di rendere l’informativa, cioè di dare evidenza – senza alcuna specifica richiesta – delle principali informazioni che riguardano il trattamento.
 
-\ |STYLE16|\  adozione entro il 25 maggio 2018 (e dell’aggiornamento continuo) di un registro delle attività di trattamento in cui descrivere:
+\ |STYLE15|\  adozione entro il 25 maggio 2018 (e dell’aggiornamento continuo) di un registro delle attività di trattamento in cui descrivere:
 
 #. il nome e i dati di contatto del titolare del trattamento e del DPO;
 
@@ -415,11 +405,11 @@ GDPR, tutto ciò che c’è da sapere per essere in regola
 
 ..  Important:: 
 
-    di Raffaella Natale - \ |LINK13|\  agendadigitale.eu
+    di Raffaella Natale - \ |LINK10|\  agendadigitale.eu
 
-introdotta la \ |STYLE17|\  (accountability) e un approccio che tenga in maggior considerazione i rischi che un determinato trattamento di dati personali può comportare per i diritti e le libertà degli interessati.
+introdotta la \ |STYLE16|\  (accountability) e un approccio che tenga in maggior considerazione i rischi che un determinato trattamento di dati personali può comportare per i diritti e le libertà degli interessati.
 
-\ |STYLE18|\ . Il titolare del trattamento \ |LINK14|\  dei dati personali al Garante. \ |LINK15|\  ed integrato e una maggiore cooperazione a livello Ue.
+\ |STYLE17|\ . Il titolare del trattamento \ |LINK11|\  dei dati personali al Garante. \ |LINK12|\  ed integrato e una maggiore cooperazione a livello Ue.
 
 --------
 
@@ -433,9 +423,9 @@ GDPR e diritto all’oblio
 
 ..  Important:: 
 
-    di Franco Pizzetti - \ |LINK16|\  agendadigitale.eu
+    di Franco Pizzetti - \ |LINK13|\  agendadigitale.eu
 
-\ |STYLE19|\ . La parte veramente nuova, che consente di parlare anche di diritto l’oblio, pur poco avendo a che fare con la informazione e la libertà di pensiero, riguarda il dovere specifico posto a carico del titolare che riceva una richiesta di cancellazione quando i dati che ne sono oggetto siano stati “resi pubblici” dal titolare stesso.
+\ |STYLE18|\ . La parte veramente nuova, che consente di parlare anche di diritto l’oblio, pur poco avendo a che fare con la informazione e la libertà di pensiero, riguarda il dovere specifico posto a carico del titolare che riceva una richiesta di cancellazione quando i dati che ne sono oggetto siano stati “resi pubblici” dal titolare stesso.
 
 In questa ipotesi l’art. 17 paragrafo 2 impone al titolare non solo di cancellare i dati (sempre ovviamente che ritenga la richiesta legittima per quanto lo riguarda).
 
@@ -452,13 +442,13 @@ Formazione privacy obbligatoria, col Gdpr: che c’è da sapere
 ..  Important:: 
 
     di Mauro Alovisio avvocato, docente corso di formazione del data protection officer - Università degli Studi di Torino, Costanza Mottino avvocato, esperto data protection.
-    \ |LINK17|\  agendadigitale.eu
+    \ |LINK14|\  agendadigitale.eu
 
-La \ |STYLE20|\ , pertanto, \ |STYLE21|\  per potere operare all’interno delle organizzazioni, imprese e pubbliche amministrazioni.
+La \ |STYLE19|\ , pertanto, \ |STYLE20|\  per potere operare all’interno delle organizzazioni, imprese e pubbliche amministrazioni.
 
-La formazione dovrebbe essere finalizzata ad \ |STYLE22|\ .
+La formazione dovrebbe essere finalizzata ad \ |STYLE21|\ .
 
-\ |STYLE23|\  le imprese, pertanto, \ |STYLE24|\ :
+\ |STYLE22|\  le imprese, pertanto, \ |STYLE23|\ :
 
 – pianificare quanto prima un percorso ed un piano di formazione;
 
@@ -468,9 +458,9 @@ La formazione dovrebbe essere finalizzata ad \ |STYLE22|\ .
 
 – individuare un percorso formativo alternativo, in caso di mancato superamento del test finale, ed un nuovo esame di verifica;
 
-(\ |STYLE25|\ .)
+(\ |STYLE24|\ .)
 
-\ |STYLE26|\  per la formazione del Data protection Officer e dei componenti del team.
+\ |STYLE25|\  per la formazione del Data protection Officer e dei componenti del team.
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -481,59 +471,57 @@ La formazione dovrebbe essere finalizzata ad \ |STYLE22|\ .
 .. bottom of content
 
 
-.. |STYLE0| replace:: **regolamento generale sulla protezione dei dati**
+.. |STYLE0| replace:: **Garante Privacy**
 
-.. |STYLE1| replace:: **Garante Privacy**
+.. |STYLE1| replace:: *protezione delle persone fisiche con riguardo al trattamento dei dati personali*
 
-.. |STYLE2| replace:: *protezione delle persone fisiche con riguardo al trattamento dei dati personali*
+.. |STYLE2| replace:: **REGOLAMENTO UE 2016/679: TABELLA RAGIONATA degli OBBLIGHI / ADEMPIMENTI / CAUTELE DEL TITOLARE**
 
-.. |STYLE3| replace:: **REGOLAMENTO UE 2016/679: TABELLA RAGIONATA degli OBBLIGHI / ADEMPIMENTI / CAUTELE DEL TITOLARE**
+.. |STYLE3| replace:: **Il consenso dell'utente.**
 
-.. |STYLE4| replace:: **Il consenso dell'utente.**
+.. |STYLE4| replace:: **L'accesso ai dati personali dell'utente.**
 
-.. |STYLE5| replace:: **L'accesso ai dati personali dell'utente.**
+.. |STYLE5| replace:: **La criptazione dei dati.**
 
-.. |STYLE6| replace:: **La criptazione dei dati.**
+.. |STYLE6| replace:: **consenso**
 
-.. |STYLE7| replace:: **consenso**
+.. |STYLE7| replace:: **per qualsiasi motivo**
 
-.. |STYLE8| replace:: **per qualsiasi motivo**
+.. |STYLE8| replace:: **l'accesso ai dati**
 
-.. |STYLE9| replace:: **l'accesso ai dati**
+.. |STYLE9| replace:: **deve essere sempre consentito all'utente di revocare tali permessi**
 
-.. |STYLE10| replace:: **deve essere sempre consentito all'utente di revocare tali permessi**
+.. |STYLE10| replace:: **la crittografia**
 
-.. |STYLE11| replace:: **la crittografia**
+.. |STYLE11| replace:: **Ogni dato dell'utente inviato e conservato su di un sito web dovrà essere criptato**
 
-.. |STYLE12| replace:: **Ogni dato dell'utente inviato e conservato su di un sito web dovrà essere criptato**
+.. |STYLE12| replace:: **SSL/TLS**
 
-.. |STYLE13| replace:: **SSL/TLS**
+.. |STYLE13| replace:: **Nomina del DPO**
 
-.. |STYLE14| replace:: **Nomina del DPO**
+.. |STYLE14| replace:: **Trasparenza del trattamento**
 
-.. |STYLE15| replace:: **Trasparenza del trattamento**
+.. |STYLE15| replace:: **Registro dei trattamenti e misure di sicurezza.**
 
-.. |STYLE16| replace:: **Registro dei trattamenti e misure di sicurezza.**
+.. |STYLE16| replace:: **responsabilizzazione dei titolari del trattamento**
 
-.. |STYLE17| replace:: **responsabilizzazione dei titolari del trattamento**
+.. |STYLE17| replace:: **Data Breach**
 
-.. |STYLE18| replace:: **Data Breach**
+.. |STYLE18| replace:: **La vera novità del diritto all’oblio**
 
-.. |STYLE19| replace:: **La vera novità del diritto all’oblio**
+.. |STYLE19| replace:: **formazione costituisce**
 
-.. |STYLE20| replace:: **formazione costituisce**
+.. |STYLE20| replace:: **un prerequisito**
 
-.. |STYLE21| replace:: **un prerequisito**
+.. |STYLE21| replace:: **illustrare i rischi generali e specifici dei trattamenti di dati, le misure organizzative, tecniche ed informatiche adottate, nonché le responsabilità e le sanzioni**
 
-.. |STYLE22| replace:: **illustrare i rischi generali e specifici dei trattamenti di dati, le misure organizzative, tecniche ed informatiche adottate, nonché le responsabilità e le sanzioni**
+.. |STYLE22| replace:: **Gli Enti pubblici**
 
-.. |STYLE23| replace:: **Gli Enti pubblici**
+.. |STYLE23| replace:: **devono**
 
-.. |STYLE24| replace:: **devono**
+.. |STYLE24| replace:: *Le prove finali consentono di dimostrare il grado di conoscenza della normativa, delle istruzioni privacy all’interno dell’organizzazione*
 
-.. |STYLE25| replace:: *Le prove finali consentono di dimostrare il grado di conoscenza della normativa, delle istruzioni privacy all’interno dell’organizzazione*
-
-.. |STYLE26| replace:: **Nelle previsioni di budget è necessario considerare anche risorse specifiche**
+.. |STYLE25| replace:: **Nelle previsioni di budget è necessario considerare anche risorse specifiche**
 
 
 .. |REPLACE1| raw:: html
@@ -774,69 +762,57 @@ La formazione dovrebbe essere finalizzata ad \ |STYLE22|\ .
 
 .. |LINK1| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Regolamento_generale_sulla_protezione_dei_dati" target="_blank">GDPR da Wikipedia</a>
+    <a href="http://194.242.234.211/documents/10160/0/Guida+all+applicazione+del+Regolamento+UE+2016+679.pdf" target="_blank">Guida all’applicazione del Regolamento UE 2016 679.pdf</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Regolamento_generale_sulla_protezione_dei_dati#cite_note-1" target="_blank">[1]</a>
+    <a href="http://www.altalex.com/documents/news/2017/03/10/privacy-e-regolamento-ue-la-tabella-degli-obblighi-e-degli-adempimenti-del-titolare" target="_blank">GDPR, la tabella degli adempimenti del titolare</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Regolamento_generale_sulla_protezione_dei_dati#cite_note-2" target="_blank">[2]</a>
+    <a href="http://www.altalex.com/autori/marini-paolo" target="_blank">Paolo Marini</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://194.242.234.211/documents/10160/0/Guida+all+applicazione+del+Regolamento+UE+2016+679.pdf" target="_blank">Guida all’applicazione del Regolamento UE 2016 679.pdf</a>
+    <a href="http://www.altalex.com/documents/news/2015/12/23/accordo-raggiunto-sul-regolamento-europeo-in-materia-di-protezione-dei-dati-personali" target="_blank">GDPR - Regolamento UE 2016/679</a>
 
 .. |LINK5| raw:: html
 
-    <a href="http://www.altalex.com/documents/news/2017/03/10/privacy-e-regolamento-ue-la-tabella-degli-obblighi-e-degli-adempimenti-del-titolare" target="_blank">GDPR, la tabella degli adempimenti del titolare</a>
+    <a href="http://blog.html.it/16/04/2018/gdpr-3-regole-fondamentali-per-la-confromita-di-un-sito-web" target="_blank">post su Blog html</a>
 
 .. |LINK6| raw:: html
 
-    <a href="http://www.altalex.com/autori/marini-paolo" target="_blank">Paolo Marini</a>
+    <a href="http://blog.html.it/author/claudio-davide-ferrara/" target="_blank">Claudio Davide Ferrara</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://www.altalex.com/documents/news/2015/12/23/accordo-raggiunto-sul-regolamento-europeo-in-materia-di-protezione-dei-dati-personali" target="_blank">GDPR - Regolamento UE 2016/679</a>
+    <a href="https://www.agendadigitale.eu/sicurezza/come-adeguare-la-pa-al-gdpr-tutto-cio-che-bisogna-fare/" target="_blank">link</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://blog.html.it/16/04/2018/gdpr-3-regole-fondamentali-per-la-confromita-di-un-sito-web" target="_blank">post su Blog html</a>
+    <a href="https://www.agendadigitale.eu/compiti-dpo" target="_blank">DPO – Data Protection Officer</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://blog.html.it/author/claudio-davide-ferrara/" target="_blank">Claudio Davide Ferrara</a>
+    <a href="http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/7322110" target="_blank">Faq del Garante Privacy</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://www.agendadigitale.eu/sicurezza/come-adeguare-la-pa-al-gdpr-tutto-cio-che-bisogna-fare/" target="_blank">link</a>
+    <a href="https://www.agendadigitale.eu/cittadinanza-digitale/gdpr-tutto-cio-che-ce-da-sapere-per-essere-preparati/" target="_blank">link</a>
 
 .. |LINK11| raw:: html
 
-    <a href="https://www.agendadigitale.eu/compiti-dpo" target="_blank">DPO – Data Protection Officer</a>
+    <a href="https://www.agendadigitale.eu/sicurezza/sicurezza-dei-dati-la-notifica-delle-violazioni-nel-nuovo-regolamento-ue/" target="_blank">dovrà comunicare eventuali violazioni</a>
 
 .. |LINK12| raw:: html
 
-    <a href="http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/7322110" target="_blank">Faq del Garante Privacy</a>
+    <a href="https://www.agendadigitale.eu/sicurezza/gdpr-e-data-breach-i-principi-da-rispettare-per-le-segnalazioni/" target="_blank">Rispondere in modo efficace a un data breach richiede un approccio multidisciplinare</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://www.agendadigitale.eu/cittadinanza-digitale/gdpr-tutto-cio-che-ce-da-sapere-per-essere-preparati/" target="_blank">link</a>
-
-.. |LINK14| raw:: html
-
-    <a href="https://www.agendadigitale.eu/sicurezza/sicurezza-dei-dati-la-notifica-delle-violazioni-nel-nuovo-regolamento-ue/" target="_blank">dovrà comunicare eventuali violazioni</a>
-
-.. |LINK15| raw:: html
-
-    <a href="https://www.agendadigitale.eu/sicurezza/gdpr-e-data-breach-i-principi-da-rispettare-per-le-segnalazioni/" target="_blank">Rispondere in modo efficace a un data breach richiede un approccio multidisciplinare</a>
-
-.. |LINK16| raw:: html
-
     <a href="https://www.agendadigitale.eu/sicurezza/diritto-alloblio-nel-gdpr-tutte-le-novita/" target="_blank">link</a>
 
-.. |LINK17| raw:: html
+.. |LINK14| raw:: html
 
     <a href="https://www.agendadigitale.eu/cittadinanza-digitale/la-formazione-privacy-obbligatoria-nelle-pa-ed-imprese-come-pietra-angolare-del-sistema/" target="_blank">link</a>
 
