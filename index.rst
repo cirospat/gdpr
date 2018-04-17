@@ -356,6 +356,105 @@ Terze elemento cardine del GDPR è \ |STYLE10|\ . \ |STYLE11|\ , questo per impe
 
 Dunque ogni progetto che voglia essere conforme alla GDPR dovrà implementare un sistema che preveda l'utilizzo di certificati di sicurezza \ |STYLE12|\  durante le comunicazioni dei dati sensibili. Inoltre ai i vari database interni dovranno essere protetti da chiavi crittografiche "robuste" (qualsiasi sia il significato che si voglia attribuire a questo termine).
 
+--------
+
+.. _h12a1776e7a39223917854783a19f:
+
+Altri articoli sull’applicazione del GDPR
+#########################################
+
+.. _h68b502f17106bf2b7ef4e465e2d25:
+
+Come adeguare la PA al GDPR: tutto ciò che bisogna fare, di Ernesto Belisario
+=============================================================================
+
+\ |LINK9|\  agendadigitale.eu
+
+nominare un \ |LINK10|\  (in italiano, RPD o responsabile della protezione dei dati personali).
+
+Si tratta di una figura che deve possedere dei requisiti specifici (ad esempio in termini di esperienza e competenza, così come chiarito nelle \ |LINK11|\ ) e deve occuparsi prevalentemente di informare e fornire consulenza sulla corretta applicazione della normativa, curando con particolare attenzione della formazione del personale.
+
+È importante quindi notare che – così come previsto dalle Linee guida del gruppo Art. 29 – i DPO non rispondono personalmente in caso di inosservanza del GDPR. 
+
+\ |STYLE13|\ ….il Data Protection Officer può essere interno o esterno. Nel primo caso, anche per salvaguardare la sua autonomia, non potrà coincidere con chi – all’interno dell’ente – definisce, anche in parte, le politiche di protezione dei dati personali (come il responsabile per la transizione digitale). 
+
+\ |STYLE14|\ . che si sostanzia nell’obbligo per il titolare di rendere l’informativa, cioè di dare evidenza – senza alcuna specifica richiesta – delle principali informazioni che riguardano il trattamento.
+
+\ |STYLE15|\  adozione entro il 25 maggio 2018 (e dell’aggiornamento continuo) di un registro delle attività di trattamento in cui descrivere:
+
+#. il nome e i dati di contatto del titolare del trattamento e del DPO;
+
+#. le finalità del trattamento;
+
+#. una descrizione delle categorie di interessati e delle categorie di dati personali;
+
+#. le categorie di destinatari a cui i dati personali sono stati o saranno comunicati;
+
+#. i termini ultimi previsti per la cancellazione delle diverse categorie di dati;
+
+#. una descrizione generale delle misure di sicurezza tecniche e organizzative adottate dall’amministrazione;
+
+--------
+
+|
+
+.. _h1d7e2f65537070124f2cdb2b28412:
+
+GDPR, tutto ciò che c’è da sapere per essere in regola, di Raffaella Natale
+===========================================================================
+
+\ |LINK12|\  agendadigitale.eu
+
+introdotta la \ |STYLE16|\  (accountability) e un approccio che tenga in maggior considerazione i rischi che un determinato trattamento di dati personali può comportare per i diritti e le libertà degli interessati.
+
+\ |STYLE17|\ . Il titolare del trattamento \ |LINK13|\  dei dati personali al Garante. \ |LINK14|\  ed integrato e una maggiore cooperazione a livello Ue.
+
+--------
+
+|
+
+.. _h671e7c5d5df7e6f2c6f127a3332770:
+
+GDPR e diritto all’oblio, di Franco Pizzetti
+============================================
+
+\ |LINK15|\  agendadigitale.eu
+
+\ |STYLE18|\ . La parte veramente nuova, che consente di parlare anche di diritto l’oblio, pur poco avendo a che fare con la informazione e la libertà di pensiero, riguarda il dovere specifico posto a carico del titolare che riceva una richiesta di cancellazione quando i dati che ne sono oggetto siano stati “resi pubblici” dal titolare stesso.
+
+In questa ipotesi l’art. 17 paragrafo 2 impone al titolare non solo di cancellare i dati (sempre ovviamente che ritenga la richiesta legittima per quanto lo riguarda).
+
+--------
+
+|
+
+.. _h23d767b492a604129535a7048157129:
+
+Formazione privacy obbligatoria, col Gdpr: che c’è da sapere
+============================================================
+
+di Mauro Alovisio avvocato, docente corso di formazione del data protection officer - Università degli Studi di Torino, Costanza Mottino avvocato, esperto data protection
+
+\ |LINK16|\  agendadigitale.eu
+
+La \ |STYLE19|\ , pertanto, \ |STYLE20|\  per potere operare all’interno delle organizzazioni, imprese e pubbliche amministrazioni.
+
+La formazione dovrebbe essere finalizzata ad \ |STYLE21|\ .
+
+\ |STYLE22|\  le imprese, pertanto, \ |STYLE23|\ :
+
+– pianificare quanto prima un percorso ed un piano di formazione;
+
+– accantonare adeguate risorse in sede di approvazione di bilancio, al fine di arrivare preparati alla scadenza del 25 maggio 2018, data in cui il Regolamento, già in vigore, esplicherà i suoi effetti;
+
+– prevedere prove finali nel percorso formativo, e sessioni di aggiornamento alla luce delle modifiche normative, organizzative e tecniche;
+
+– individuare un percorso formativo alternativo, in caso di mancato superamento del test finale, ed un nuovo esame di verifica;
+
+(\ |STYLE24|\ .)
+
+\ |STYLE25|\  per la formazione del Data protection Officer e dei componenti del team.
+
 .. _h2c1d74277104e41780968148427e:
 
 
@@ -390,6 +489,32 @@ Dunque ogni progetto che voglia essere conforme alla GDPR dovrà implementare un
 .. |STYLE11| replace:: **Ogni dato dell'utente inviato e conservato su di un sito web dovrà essere criptato**
 
 .. |STYLE12| replace:: **SSL/TLS**
+
+.. |STYLE13| replace:: **Nomina del DPO**
+
+.. |STYLE14| replace:: **Trasparenza del trattamento**
+
+.. |STYLE15| replace:: **Registro dei trattamenti e misure di sicurezza.**
+
+.. |STYLE16| replace:: **responsabilizzazione dei titolari del trattamento**
+
+.. |STYLE17| replace:: **Data Breach**
+
+.. |STYLE18| replace:: **La vera novità del diritto all’oblio**
+
+.. |STYLE19| replace:: **formazione costituisce**
+
+.. |STYLE20| replace:: **un prerequisito**
+
+.. |STYLE21| replace:: **illustrare i rischi generali e specifici dei trattamenti di dati, le misure organizzative, tecniche ed informatiche adottate, nonché le responsabilità e le sanzioni**
+
+.. |STYLE22| replace:: **Gli Enti pubblici**
+
+.. |STYLE23| replace:: **devono**
+
+.. |STYLE24| replace:: *Le prove finali consentono di dimostrare il grado di conoscenza della normativa, delle istruzioni privacy all’interno dell’organizzazione*
+
+.. |STYLE25| replace:: **Nelle previsioni di budget è necessario considerare anche risorse specifiche**
 
 
 .. |REPLACE1| raw:: html
@@ -659,4 +784,36 @@ Dunque ogni progetto che voglia essere conforme alla GDPR dovrà implementare un
 .. |LINK8| raw:: html
 
     <a href="http://blog.html.it/author/claudio-davide-ferrara/" target="_blank">Claudio Davide Ferrara</a>
+
+.. |LINK9| raw:: html
+
+    <a href="https://www.agendadigitale.eu/sicurezza/come-adeguare-la-pa-al-gdpr-tutto-cio-che-bisogna-fare/" target="_blank">link</a>
+
+.. |LINK10| raw:: html
+
+    <a href="https://www.agendadigitale.eu/compiti-dpo" target="_blank">DPO – Data Protection Officer</a>
+
+.. |LINK11| raw:: html
+
+    <a href="http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/7322110" target="_blank">Faq del Garante Privacy</a>
+
+.. |LINK12| raw:: html
+
+    <a href="https://www.agendadigitale.eu/cittadinanza-digitale/gdpr-tutto-cio-che-ce-da-sapere-per-essere-preparati/" target="_blank">link</a>
+
+.. |LINK13| raw:: html
+
+    <a href="https://www.agendadigitale.eu/sicurezza/sicurezza-dei-dati-la-notifica-delle-violazioni-nel-nuovo-regolamento-ue/" target="_blank">dovrà comunicare eventuali violazioni</a>
+
+.. |LINK14| raw:: html
+
+    <a href="https://www.agendadigitale.eu/sicurezza/gdpr-e-data-breach-i-principi-da-rispettare-per-le-segnalazioni/" target="_blank">Rispondere in modo efficace a un data breach richiede un approccio multidisciplinare</a>
+
+.. |LINK15| raw:: html
+
+    <a href="https://www.agendadigitale.eu/sicurezza/diritto-alloblio-nel-gdpr-tutte-le-novita/" target="_blank">link</a>
+
+.. |LINK16| raw:: html
+
+    <a href="https://www.agendadigitale.eu/cittadinanza-digitale/la-formazione-privacy-obbligatoria-nelle-pa-ed-imprese-come-pietra-angolare-del-sistema/" target="_blank">link</a>
 
