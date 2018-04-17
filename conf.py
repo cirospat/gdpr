@@ -14,7 +14,7 @@ __version__ = '1.0'
 source_suffix = '.rst'
 master_doc = 'index'
 project = 'GDPR - Regolamento UE 2016/679'
-copyright = 'Regolamento UE GDPR'
+copyright = '[Regolamento UE GDPR]'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
