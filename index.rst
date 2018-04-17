@@ -19,13 +19,16 @@ Gli obiettivi principali della Commissione europea nel GDPR sono quelli di resti
 |
 
 
-.. admonition:: Fonte articolo e tabella
+.. toctree::  
+    :maxdepth: 3
+    :caption: Indice adempimenti
 
-    Articolo di Altalex del 12 aprile 2018: \ |LINK4|\ 
+    index
 
 
 ..  Important:: 
 
+    Articolo di Altalex del 12 aprile 2018: \ |LINK4|\ .
     Tabella a cura di \ |LINK5|\ 
 
 Con questa tabella si offre a disposizione dell'utenza uno schema sintetico degli obblighi/adempimenti/cautele di spettanza del titolare del trattamento in base alle norme del \ |LINK6|\  (relativo alla \ |STYLE1|\ ).
@@ -36,13 +39,7 @@ Per una esigenza di articolazione e maggiore significatività della tabella, gli
 
 A fianco di ciascun argomento/voce la tabella riporta il riferimento (capo, articolo/i) nel testo del Regolamento. 
 
-
-.. toctree::  
-    :maxdepth: 3
-    :caption: Indice adempimenti
-
-    index
-
+|
 
 \ |STYLE2|\ 
 
@@ -311,7 +308,10 @@ Obbligo di risarcimento del danno
 GDPR: 3 regole fondamentali per la conformità di un sito web
 ############################################################
 
-\ |LINK7|\ 
+
+..  Important:: 
+
+    Fonte: \ |LINK7|\   di \ |LINK8|\ . 16 Aprile 2018
 
 Esistono tre regole chiave da rispettare per rendere il proprio sito web conforme alle norme previste dal GDPR ovvero: 
 
@@ -654,5 +654,9 @@ Dunque ogni progetto che voglia essere conforme alla GDPR dovrà implementare un
 
 .. |LINK7| raw:: html
 
-    <a href="http://blog.html.it/16/04/2018/gdpr-3-regole-fondamentali-per-la-confromita-di-un-sito-web" target="_blank">link blog html</a>
+    <a href="http://blog.html.it/16/04/2018/gdpr-3-regole-fondamentali-per-la-confromita-di-un-sito-web" target="_blank">post su Blog html</a>
+
+.. |LINK8| raw:: html
+
+    <a href="http://blog.html.it/author/claudio-davide-ferrara/" target="_blank">Claudio Davide Ferrara</a>
 
