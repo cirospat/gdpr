@@ -304,6 +304,66 @@ Obbligo di risarcimento del danno
 
 
 
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+.. _h584a5a735d5c63a4f5640236b40145f:
+
+GDPR: 3 REGOLE FONDAMENTALI PER LA CONFORMITÀ DI UN SITO WEB
+************************************************************
+
+\ |LINK7|\ 
+
+Esistono tre regole chiave da rispettare per rendere il proprio sito web conforme alle norme previste dal GDPR ovvero: 
+
+#. \ |STYLE3|\ 
+
+#. \ |STYLE4|\ 
+
+#. \ |STYLE5|\ 
+
+.. _h364778496906b335a58736e251e:
+
+Il consenso dell'utente
+=======================
+
+Il \ |STYLE6|\  è uno dei pilastri della nuova legislazione ed è vitale per poter salvare ed utilizzare i dati personali degli utenti. Dunque è necessario ottenere uno specifico permesso da parte dell'utente per poter trattare i suoi dati, \ |STYLE7|\ . 
+
+I visitatori del sito web dovranno essere informati in modo preciso di come i loro dati verranno raccolti e trattati, sarà inoltre necessario informarli delle motivazioni di questa raccolta dati e sarà quindi molto importante che accettino di loro spontanea volontà selezionando un apposito form di conferma.
+
+Prendiamo ad esempio le agenzia di collocamento, se un candidato approva il trattamento dei suoi dati personali ed invia il suo curriculum online per una determinata posizione, a meno che il campo di conferma da lui spuntato non reciti altro, l'agenzia non potrà sfruttare quel curriculum per proporre altre candidature né potrà cederlo ad altre aziende eventualmente interessante. 
+
+Dunque è bene che un sito web sia sempre aggiornato dal punto di vista delle informative e riceva dall'utente permessi espliciti ogni volta che dovessero essere previste nuove tipologie di trattamento dei dati personali.
+
+Altra novità arrivata con la GDPR riguarda il linguaggio delle note sulla privacy dell'utente. Esse devono essere semplici da leggere e da comprendere per l'utente, dunque devono adottare un linguaggio comune e di facile interpretazione. Lo stesso dicasi per le comunicazioni sull'utilizzo dei cookie.
+
+.. _h7f673a282b1653111727717ef5d:
+
+L'accesso ai dati
+=================
+
+Il secondo componente chiave del GDPR è \ |STYLE8|\ . Bisogna rendere noto e avvertire l'utente su chi può accedere ai propri dati personali e come essi vengono registrati e conservati dal sito web, anche tramite CMS o CRM.
+
+La via più semplice per farlo è in classico form dove si chiede all'utente di poter trattare, nei modi che si necessitano, i vari tipi di dati personali. 
+
+Se la risposta è negativa deve essere anche implementata una procedura per evitare che i dati vengano registrati e conservati, inoltre \ |STYLE9|\  in futuro e di cancellare i propri dati quando lo desidera. I titolari delle aziende dovrebbero inoltre verificare e controllare che le eventuali agenzie di terze parti che hanno accesso ai dati degli utenti abbiamo procedure conformi ai nuovi regolamenti.
+
+.. _h7e624216234b7a51d6e2756876723d:
+
+La crittografia
+===============
+
+Terze elemento cardine del GDPR è \ |STYLE10|\ . \ |STYLE11|\ , questo per impedire sottrazioni di informazioni sensibili tramite attacchi informatici. 
+
+Dunque ogni progetto che voglia essere conforme alla GDPR dovrà implementare un sistema che preveda l'utilizzo di certificati di sicurezza \ |STYLE12|\  durante le comunicazioni dei dati sensibili. Inoltre ai i vari database interni dovranno essere protetti da chiavi crittografiche "robuste" (qualsiasi sia il significato che si voglia attribuire a questo termine).
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 
 .. bottom of content
 
@@ -313,6 +373,26 @@ Obbligo di risarcimento del danno
 .. |STYLE1| replace:: *protezione delle persone fisiche con riguardo al trattamento dei dati personali*
 
 .. |STYLE2| replace:: **REGOLAMENTO UE 2016/679: TABELLA RAGIONATA degli OBBLIGHI / ADEMPIMENTI / CAUTELE DEL TITOLARE**
+
+.. |STYLE3| replace:: **Il consenso dell'utente.**
+
+.. |STYLE4| replace:: **L'accesso ai dati personali dell'utente.**
+
+.. |STYLE5| replace:: **La criptazione dei dati.**
+
+.. |STYLE6| replace:: **consenso**
+
+.. |STYLE7| replace:: **per qualsiasi motivo**
+
+.. |STYLE8| replace:: **l'accesso ai dati**
+
+.. |STYLE9| replace:: **deve essere sempre consentito all'utente di revocare tali permessi**
+
+.. |STYLE10| replace:: **la crittografia**
+
+.. |STYLE11| replace:: **Ogni dato dell'utente inviato e conservato su di un sito web dovrà essere criptato**
+
+.. |STYLE12| replace:: **SSL/TLS**
 
 
 .. |REPLACE1| raw:: html
@@ -574,4 +654,8 @@ Obbligo di risarcimento del danno
 .. |LINK6| raw:: html
 
     <a href="http://www.altalex.com/documents/news/2015/12/23/accordo-raggiunto-sul-regolamento-europeo-in-materia-di-protezione-dei-dati-personali" target="_blank">GDPR - Regolamento UE 2016/679</a>
+
+.. |LINK7| raw:: html
+
+    <a href="http://blog.html.it/16/04/2018/gdpr-3-regole-fondamentali-per-la-confromita-di-un-sito-web" target="_blank">link blog html</a>
 
