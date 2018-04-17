@@ -4,15 +4,9 @@
 Schema degli obblighi/adempimenti del titolare del trattamento in base al GDPR - Regolamento UE 2016/679 
 #########################################################################################################
 
---------
-
 \ |LINK1|\  sito \ |STYLE0|\ 
 
-\ |LINK2|\  sito \ |STYLE1|\ 
-
-La Guida intende offrire un panorama delle principali problematiche che imprese e soggetti pubblici dovranno tenere presenti in vista della piena applicazione del regolamento, prevista il 25 maggio 2018.
-
---------
+\ |LINK2|\  sito \ |STYLE1|\  - La Guida intende offrire un panorama delle principali problematiche che imprese e soggetti pubblici dovranno tenere presenti in vista della piena applicazione del regolamento, prevista il 25 maggio 2018.
 
 |
 
