@@ -7,14 +7,11 @@ Schema degli obblighi/adempimenti del titolare del trattamento in base al GDPR -
 
 ..  Tip:: 
 
-    \ |LINK1|\  sito \ |STYLE0|\  - La Guida intende offrire un panorama delle principali problematiche che imprese e soggetti pubblici dovranno tenere presenti in vista della piena applicazione del regolamento, prevista il 25 maggio 2018.
+    \ |LINK1|\  - \ |STYLE0|\ . Panorama delle principali problematiche che imprese e soggetti pubblici dovranno tenere presenti per la piena applicazione del regolamento, prevista il 25/05/2018.
     
     \ |LINK2|\  sito \ |STYLE1|\ 
-
-
-..  Hint:: 
-
-    \ |STYLE2|\  \ |LINK3|\  (febbraio 2018)
+    
+    \ |LINK3|\  \ |STYLE2|\   (febbraio 2018)
 
 |
 
@@ -479,7 +476,7 @@ La formazione dovrebbe essere finalizzata ad \ |STYLE23|\ .
 
 .. |STYLE1| replace:: **Garante Privacy**
 
-.. |STYLE2| replace:: **QUADERNI ANCI**
+.. |STYLE2| replace:: **Quaderni ANCI**
 
 .. |STYLE3| replace:: *protezione delle persone fisiche con riguardo al trattamento dei dati personali*
 
