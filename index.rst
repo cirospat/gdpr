@@ -7,13 +7,11 @@ Schema degli obblighi/adempimenti del titolare del trattamento in base al GDPR -
 
 ..  Tip:: 
 
-    \ |LINK1|\  - \ |STYLE0|\ . Panorama delle principali problematiche che imprese e soggetti pubblici dovranno tenere presenti per la piena applicazione del regolamento, prevista il 25/05/2018.
+    * \ |LINK1|\  - \ |STYLE0|\ . Panorama delle principali problematiche che imprese e soggetti pubblici dovranno tenere presenti per la piena applicazione del regolamento, prevista il 25/05/2018.
     
-    \ |LINK2|\  sito \ |STYLE1|\ 
+    * \ |LINK2|\  sito \ |STYLE1|\ 
     
-    \ |LINK3|\  \ |STYLE2|\   (febbraio 2018)
-
-|
+    * \ |LINK3|\  \ |STYLE2|\   (febbraio 2018)
 
 
 .. toctree::  
