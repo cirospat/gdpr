@@ -416,7 +416,7 @@ Si tratta di una figura che deve possedere dei requisiti specifici (ad esempio i
 .. _h177a513e7e7a060603026293774767e:
 
 GDPR, tutto ciò che c’è da sapere per essere in regola
-******************************************************
+======================================================
 
 
 ..  Important:: 
@@ -434,7 +434,7 @@ introdotta la \ |STYLE18|\  (accountability) e un approccio che tenga in maggior
 .. _h6e1c293a1ef5150241011591713523a:
 
 GDPR e diritto all’oblio
-************************
+========================
 
 
 ..  Important:: 
@@ -452,7 +452,7 @@ In questa ipotesi l’art. 17 paragrafo 2 impone al titolare non solo di cancell
 .. _h23d767b492a604129535a7048157129:
 
 Formazione privacy obbligatoria, col Gdpr: che c’è da sapere
-************************************************************
+============================================================
 
 
 ..  Important:: 
