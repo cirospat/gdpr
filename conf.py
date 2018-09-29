@@ -37,3 +37,5 @@ def setup(app):
 """
 #latex_documents = []
 html_logo = "gdpr.jpg"
+
+templates_path = ['_templates']
