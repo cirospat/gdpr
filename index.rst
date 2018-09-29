@@ -306,7 +306,7 @@ Obbligo di risarcimento del danno
 .. _h7f437c6d14a46823b6576118276b:
 
 MODULISTICA aggiornata al GDPR (scaricabile gratuitamente) a cura di Omnia Vis
-******************************************************************************
+##############################################################################
 
 \ |LINK7|\  in formato aperto
 
@@ -318,7 +318,7 @@ MODULISTICA aggiornata al GDPR (scaricabile gratuitamente) a cura di Omnia Vis
 .. _h4f2225576255d2c274f372c5033045:
 
 GDPR: 3 regole fondamentali per la conformità di un sito web
-************************************************************
+############################################################
 
 
 ..  Important:: 
@@ -373,7 +373,7 @@ Dunque ogni progetto che voglia essere conforme alla GDPR dovrà implementare un
 .. _h12a1776e7a39223917854783a19f:
 
 Altri articoli sull’applicazione del GDPR
-*****************************************
+#########################################
 
 .. _h334671252b5e305b2130ac7e294818:
 
