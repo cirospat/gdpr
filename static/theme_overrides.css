@@ -61,11 +61,8 @@ h1, h2, h3 {
 .wy-side-nav-search>div.version {    display: none;}
 
 
-/* disativa blocco in basso a sx di Read the Docs ma solo per Github */
-dt {
-    display: none;
-}
-
+/* disativa blocco in basso a sx di Read the Docs  */
+.rst-versions.shift-up { display: none;}
 
 
 /* #ccd8ab colore deciso per appattarlo al verdino della freccia, per versione mobile */
