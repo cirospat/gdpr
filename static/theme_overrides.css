@@ -61,11 +61,6 @@ h1, h2, h3 {
 .wy-side-nav-search>div.version {    display: none;}
 
 
-/* disativa blocco in basso a sx di Read the Docs  */
-/* da provare  */
-.rst-versions>dt.On GitHub { display: none;}
-
-
 
 /* #ccd8ab colore deciso per appattarlo al verdino della freccia, per versione mobile */
 /* quello di prima era il seguente */
