@@ -62,7 +62,7 @@ h1, h2, h3 {
 
 
 /* disativa blocco in basso a sx di Read the Docs  */
-.rst-versions.shift-up { display: none;}
+.rst-versions { display: none;}
 
 
 /* #ccd8ab colore deciso per appattarlo al verdino della freccia, per versione mobile */
