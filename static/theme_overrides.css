@@ -63,6 +63,9 @@ h1, h2, h3 {
 
 /* disativa blocco in basso a sx di Read the Docs  */
 .rst-versions { display: none;}
+/* da provare  */
+/* .rst-versions>dt.On GitHub { display: none;}
+
 
 
 /* #ccd8ab colore deciso per appattarlo al verdino della freccia, per versione mobile */
