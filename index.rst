@@ -14,6 +14,8 @@ Schema degli obblighi/adempimenti del titolare del trattamento in base al GDPR -
     * \ |LINK3|\  \ |STYLE2|\   (febbraio 2018).
     
     * \ |LINK4|\ .
+    
+    * \ |LINK5|\  (\ |LINK6|\ )
 
 
 .. toctree::  
@@ -25,10 +27,10 @@ Schema degli obblighi/adempimenti del titolare del trattamento in base al GDPR -
 
 ..  Important:: 
 
-    Articolo di Altalex del 12 aprile 2018: \ |LINK5|\ .
-    Tabella a cura di \ |LINK6|\ 
+    Articolo di Altalex del 12 aprile 2018: \ |LINK7|\ .
+    Tabella a cura di \ |LINK8|\ 
 
-Con questa tabella si offre a disposizione dell'utenza uno schema sintetico degli obblighi/adempimenti/cautele di spettanza del titolare del trattamento in base alle norme del \ |LINK7|\  (relativo alla \ |STYLE3|\ ).
+Con questa tabella si offre a disposizione dell'utenza uno schema sintetico degli obblighi/adempimenti/cautele di spettanza del titolare del trattamento in base alle norme del \ |LINK9|\  (relativo alla \ |STYLE3|\ ).
 
 Per una esigenza di articolazione e maggiore significatività della tabella, gli obblighi / adempimenti / cautele sono classificati come di seguito:
 
@@ -310,7 +312,7 @@ Obbligo di risarcimento del danno
 MODULISTICA aggiornata al GDPR (scaricabile gratuitamente) a cura di Omnia Vis
 ##############################################################################
 
-\ |LINK8|\  in formato aperto
+\ |LINK10|\  in formato aperto
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -325,7 +327,7 @@ GDPR: 3 regole fondamentali per la conformità di un sito web
 
 ..  Important:: 
 
-    Fonte: \ |LINK9|\   di \ |LINK10|\ . 16 Aprile 2018
+    Fonte: \ |LINK11|\   di \ |LINK12|\ . 16 Aprile 2018
 
 Esistono tre regole chiave da rispettare per rendere il proprio sito web conforme alle norme previste dal GDPR ovvero: 
 
@@ -385,11 +387,11 @@ Come adeguare la PA al GDPR: tutto ciò che bisogna fare
 
 ..  Important:: 
 
-    di Ernesto Belisario - \ |LINK11|\  agendadigitale.eu
+    di Ernesto Belisario - \ |LINK13|\  agendadigitale.eu
 
-nominare un \ |LINK12|\  (in italiano, RPD o responsabile della protezione dei dati personali).
+nominare un \ |LINK14|\  (in italiano, RPD o responsabile della protezione dei dati personali).
 
-Si tratta di una figura che deve possedere dei requisiti specifici (ad esempio in termini di esperienza e competenza, così come chiarito nelle \ |LINK13|\ ) e deve occuparsi prevalentemente di informare e fornire consulenza sulla corretta applicazione della normativa, curando con particolare attenzione della formazione del personale.
+Si tratta di una figura che deve possedere dei requisiti specifici (ad esempio in termini di esperienza e competenza, così come chiarito nelle \ |LINK15|\ ) e deve occuparsi prevalentemente di informare e fornire consulenza sulla corretta applicazione della normativa, curando con particolare attenzione della formazione del personale.
 
 È importante quindi notare che – così come previsto dalle Linee guida del gruppo Art. 29 – i DPO non rispondono personalmente in caso di inosservanza del GDPR. 
 
@@ -423,11 +425,11 @@ GDPR, tutto ciò che c’è da sapere per essere in regola
 
 ..  Important:: 
 
-    di Raffaella Natale - \ |LINK14|\  agendadigitale.eu
+    di Raffaella Natale - \ |LINK16|\  agendadigitale.eu
 
 introdotta la \ |STYLE18|\  (accountability) e un approccio che tenga in maggior considerazione i rischi che un determinato trattamento di dati personali può comportare per i diritti e le libertà degli interessati.
 
-\ |STYLE19|\ . Il titolare del trattamento \ |LINK15|\  dei dati personali al Garante. \ |LINK16|\  ed integrato e una maggiore cooperazione a livello Ue.
+\ |STYLE19|\ . Il titolare del trattamento \ |LINK17|\  dei dati personali al Garante. \ |LINK18|\  ed integrato e una maggiore cooperazione a livello Ue.
 
 --------
 
@@ -441,7 +443,7 @@ GDPR e diritto all’oblio
 
 ..  Important:: 
 
-    di Franco Pizzetti - \ |LINK17|\  agendadigitale.eu
+    di Franco Pizzetti - \ |LINK19|\  agendadigitale.eu
 
 \ |STYLE20|\ . La parte veramente nuova, che consente di parlare anche di diritto l’oblio, pur poco avendo a che fare con l’informazione e la libertà di pensiero, riguarda il dovere specifico posto a carico del titolare che riceva una richiesta di cancellazione quando i dati che ne sono oggetto siano stati “resi pubblici” dal titolare stesso.
 
@@ -460,7 +462,7 @@ Formazione privacy obbligatoria, col Gdpr: che c’è da sapere
 ..  Important:: 
 
     di Mauro Alovisio avvocato, docente corso di formazione del data protection officer - Università degli Studi di Torino, Costanza Mottino avvocato, esperto data protection.
-    \ |LINK18|\  agendadigitale.eu
+    \ |LINK20|\  agendadigitale.eu
 
 La \ |STYLE21|\ , pertanto, \ |STYLE22|\  per potere operare all’interno delle organizzazioni, imprese e pubbliche amministrazioni.
 
@@ -800,57 +802,65 @@ La formazione dovrebbe essere finalizzata ad \ |STYLE23|\ .
 
 .. |LINK5| raw:: html
 
-    <a href="http://www.altalex.com/documents/news/2017/03/10/privacy-e-regolamento-ue-la-tabella-degli-obblighi-e-degli-adempimenti-del-titolare" target="_blank">GDPR, la tabella degli adempimenti del titolare</a>
+    <a href="http://www.omniavis.it/web/forum/index.php?topic=44768.0&fbclid=IwAR2COXUqRYdqj2lmPulxKL_BCto8DY8smqtAveWbBRdYPKLNic0QTw-udtk" target="_blank">Modulistica aggiornata al GDPR</a>
 
 .. |LINK6| raw:: html
 
-    <a href="http://www.altalex.com/autori/marini-paolo" target="_blank">Paolo Marini</a>
+    <a href="http://www.omniavis.it/web/forum/index.php?PHPSESSID=ulr33o0a8iq6602o5p67q4b7s0&action=profile;u=2463" target="_blank">Staff Omniavis</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://www.altalex.com/documents/news/2015/12/23/accordo-raggiunto-sul-regolamento-europeo-in-materia-di-protezione-dei-dati-personali" target="_blank">GDPR - Regolamento UE 2016/679</a>
+    <a href="http://www.altalex.com/documents/news/2017/03/10/privacy-e-regolamento-ue-la-tabella-degli-obblighi-e-degli-adempimenti-del-titolare" target="_blank">GDPR, la tabella degli adempimenti del titolare</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://www.omniavis.it/web/forum/index.php?topic=44768.0" target="_blank">Link modulistica</a>
+    <a href="http://www.altalex.com/autori/marini-paolo" target="_blank">Paolo Marini</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://blog.html.it/16/04/2018/gdpr-3-regole-fondamentali-per-la-confromita-di-un-sito-web" target="_blank">post su Blog html</a>
+    <a href="http://www.altalex.com/documents/news/2015/12/23/accordo-raggiunto-sul-regolamento-europeo-in-materia-di-protezione-dei-dati-personali" target="_blank">GDPR - Regolamento UE 2016/679</a>
 
 .. |LINK10| raw:: html
 
-    <a href="http://blog.html.it/author/claudio-davide-ferrara/" target="_blank">Claudio Davide Ferrara</a>
+    <a href="http://www.omniavis.it/web/forum/index.php?topic=44768.0" target="_blank">Link modulistica</a>
 
 .. |LINK11| raw:: html
 
-    <a href="https://www.agendadigitale.eu/sicurezza/come-adeguare-la-pa-al-gdpr-tutto-cio-che-bisogna-fare/" target="_blank">link</a>
+    <a href="http://blog.html.it/16/04/2018/gdpr-3-regole-fondamentali-per-la-confromita-di-un-sito-web" target="_blank">post su Blog html</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://www.agendadigitale.eu/compiti-dpo" target="_blank">DPO – Data Protection Officer</a>
+    <a href="http://blog.html.it/author/claudio-davide-ferrara/" target="_blank">Claudio Davide Ferrara</a>
 
 .. |LINK13| raw:: html
 
-    <a href="http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/7322110" target="_blank">Faq del Garante Privacy</a>
+    <a href="https://www.agendadigitale.eu/sicurezza/come-adeguare-la-pa-al-gdpr-tutto-cio-che-bisogna-fare/" target="_blank">link</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://www.agendadigitale.eu/cittadinanza-digitale/gdpr-tutto-cio-che-ce-da-sapere-per-essere-preparati/" target="_blank">link</a>
+    <a href="https://www.agendadigitale.eu/compiti-dpo" target="_blank">DPO – Data Protection Officer</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://www.agendadigitale.eu/sicurezza/sicurezza-dei-dati-la-notifica-delle-violazioni-nel-nuovo-regolamento-ue/" target="_blank">dovrà comunicare eventuali violazioni</a>
+    <a href="http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/7322110" target="_blank">Faq del Garante Privacy</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://www.agendadigitale.eu/sicurezza/gdpr-e-data-breach-i-principi-da-rispettare-per-le-segnalazioni/" target="_blank">Rispondere in modo efficace a un data breach richiede un approccio multidisciplinare</a>
+    <a href="https://www.agendadigitale.eu/cittadinanza-digitale/gdpr-tutto-cio-che-ce-da-sapere-per-essere-preparati/" target="_blank">link</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://www.agendadigitale.eu/sicurezza/diritto-alloblio-nel-gdpr-tutte-le-novita/" target="_blank">link</a>
+    <a href="https://www.agendadigitale.eu/sicurezza/sicurezza-dei-dati-la-notifica-delle-violazioni-nel-nuovo-regolamento-ue/" target="_blank">dovrà comunicare eventuali violazioni</a>
 
 .. |LINK18| raw:: html
+
+    <a href="https://www.agendadigitale.eu/sicurezza/gdpr-e-data-breach-i-principi-da-rispettare-per-le-segnalazioni/" target="_blank">Rispondere in modo efficace a un data breach richiede un approccio multidisciplinare</a>
+
+.. |LINK19| raw:: html
+
+    <a href="https://www.agendadigitale.eu/sicurezza/diritto-alloblio-nel-gdpr-tutte-le-novita/" target="_blank">link</a>
+
+.. |LINK20| raw:: html
 
     <a href="https://www.agendadigitale.eu/cittadinanza-digitale/la-formazione-privacy-obbligatoria-nelle-pa-ed-imprese-come-pietra-angolare-del-sistema/" target="_blank">link</a>
 
